@@ -3,8 +3,12 @@ Web scraper to get news article content
 
 # DevProjects - Web scraper to get news article content
 
-This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [Web scraper to get news article content](https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe)
+This is an open source project to read a news articcle and read its contents. Feedback and questions are welcome!
+Find the project requirements here: 
+Introduction
+I am building a simple web scraper that will return the content of a news article when given a specific URL given below. 
+It will display the Title, Updated Date, Author and Conternt of the News Article.
+Web Url : https://edition.cnn.com/travel/article/essential-spanish-dishes/index.html
 
 ## Tech/framework used
 Built with Python using BeautifulSoup, Pandas, Requests
